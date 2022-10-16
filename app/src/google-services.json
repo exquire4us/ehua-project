@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "503840675216",
+    "project_id": "ehuaproject",
+    "storage_bucket": "ehuaproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503840675216:android:c66fd7ddfe3688d68e0f15",
+        "android_client_info": {
+          "package_name": "com.example.ehuaproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503840675216-6vgfivqs81jh75deeeprlf6brs5rmj3k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ehuaproject",
+            "certificate_hash": "08ea82dfe014404207bc021790f1e9e0f5e47841"
+          }
+        },
+        {
+          "client_id": "503840675216-imcpsonsd71p26076gfeaq4b079bsh6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhjTzBwhRgrG65MsPDYNdjQq865mRR938"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503840675216-imcpsonsd71p26076gfeaq4b079bsh6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
